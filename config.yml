@@ -1,0 +1,17 @@
+rules:
+  - No vulgar language
+  - Be friendly to other players
+  - Do not spam chat or use constant caps
+  - Do not use any modification clients (Optifine is allowed)
+  - Super obvious, no hacking
+  - If you find a bug, report it immediatley to any staff online and do not tell others
+  - Report hackers/bug exploiters to staff on the server
+  
+broadcast: 
+  - If you are unsure if something you are doing is against the rules, check it with /rules!
+  - If you see someone hacking then report it to staff immediatly!
+  - Check out our website at http://www.masterscapemc.com
+  - Having a great time? Consider buying a rank for cool features such as access to beta games and special commands!
+
+broadcastInterval: 180
+  

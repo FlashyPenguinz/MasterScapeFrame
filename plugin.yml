@@ -1,0 +1,63 @@
+name: MasterScapeFrame
+version: 1.0
+main: me.mudkiper202.MasterscapeFrame.Frame
+softdepend: [WorldEdit, PermissionsEx]
+
+commands:
+  setspawn:
+    description: Sets the spawn!
+  spawn:
+    description: Spawns you at spawn!
+  fly:
+    description: Enables/Disables flying!
+  vanish:
+    description: Vanishes You!
+  v:
+    description: Vanishes You!
+  area:
+    description: Area commands
+  portal:
+    description: Portal commands
+  rules:
+    description: Tells you the rules!
+  team:
+    description: Team up with other players!
+  kit:
+    description: Gives you a kit!
+  kits:
+    description: Displays all kits!
+
+permissions: 
+  scape.setspawn:
+    description: Permission to do /setspawn
+    default: op
+  scape.fly:
+    description: Permission to do /fly
+    default: op
+  scape.vanish:
+    description: Permission to do /vanish
+    default: op
+  scape.colorchat:
+    description: Permission to do chat colors
+    default: op
+  scape.colorsign:
+    description: Permission to do sign colors
+    default: op
+  scape.area:
+    description: Permission to set lobby
+    default: op
+  scape.portal:
+    description: Permission to set portal
+    default: op
+  scape.blockbreak:
+    description: Permission to do break blocks
+    default: op
+  scape.kitVisibility:
+    description: Permission to do see all kits
+    default: op
+  scape.kit.sign:
+    description: Permission to do put kits on signs
+    default: op
+  scape.kit.cooldown:
+    description: Permission to bypass kit cooldown
+    default: op 
