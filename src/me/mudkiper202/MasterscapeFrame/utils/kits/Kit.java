@@ -4,8 +4,8 @@ import org.bukkit.entity.Player;
 import org.bukkit.permissions.Permission;
 
 import me.mudkiper202.MasterscapeFrame.Frame;
-import me.mudkiper202.MasterscapeFrame.utils.general.Armor;
-import me.mudkiper202.MasterscapeFrame.utils.item.Item;
+import me.mudkiper202.MasterscapeHub.utils.Armor;
+import me.mudkiper202.MasterscapeHub.utils.Item;
 
 public class Kit {
 

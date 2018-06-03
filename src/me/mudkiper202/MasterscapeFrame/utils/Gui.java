@@ -3,7 +3,7 @@ package me.mudkiper202.MasterscapeFrame.utils;
 import java.util.ArrayList;
 import java.util.List;
 
-import me.mudkiper202.MasterscapeFrame.utils.item.GuiItem;
+import me.mudkiper202.MasterscapeHub.utils.GuiItem;
 
 import org.bukkit.inventory.Inventory;
 

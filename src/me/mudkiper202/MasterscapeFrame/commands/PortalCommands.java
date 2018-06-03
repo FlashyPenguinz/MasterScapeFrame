@@ -1,9 +1,9 @@
 package me.mudkiper202.MasterscapeFrame.commands;
 
 import me.mudkiper202.MasterscapeFrame.Frame;
-import me.mudkiper202.MasterscapeFrame.utils.portal.Portal;
 import me.mudkiper202.MasterscapeFrame.utils.portal.PortalObjective;
 import me.mudkiper202.MasterscapeFrame.utils.portal.PortalObjectiveType;
+import me.mudkiper202.MasterscapeHub.utils.Portal;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
