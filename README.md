@@ -6,4 +6,4 @@ MasterScapeFrame<-->MasterScapeHub
 MasterScapeFrame<-->MasterScapeMinigames
 
 I used Java Reflection to do this taking methods from the hub and minigames and plugging them into the frame but now I realize this
-this was not a very good structure, right now it is looking better
+this was not a very good structure, I have been learning other ways of doing things but this was a good learning step
